@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=giebaN7jE4I&ab_channel=%D0%A4%D1%81%D0%BE%D0%BA%D0%B8
+ссылки на discord BOT
+https://discord.com/developers/applications :create
+https://discordpy.readthedocs.io/en/stable/ :docs
+https://discordpy.readthedocs.io/en/latest/api.html :docs
+https://discordapp.com/oauth2/authorize?client_id=ID&scope=bot&permission=8 :connect
