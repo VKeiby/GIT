@@ -90,7 +90,23 @@ async def help(ctx):
 
     await ctx.send( embed = emb)
 
+#__________________ Testing ________________________
+# You can also have a separate coroutine for your main server
+#@client.command()
+async def test():
+    test_guild_channel = client.get_channel(918865736808693770)
+    await test_guild_channel.send("Hello there!")
 
+@client.event
+async def on_message(message):
+    if client.user == message.author:
+        return
+    if message.guild.id == 920304316055691324:
+        if message.content.lower() == ".hi":  # .lower() for case insensitivity
+            await message.channel.send('User was fucked by admin')
+        return
+    # Another condition for your main server + calling the other coroutine
+#----------------------------------------------------
 
 # Connect
 token = open('token.txt', 'r').readline()
