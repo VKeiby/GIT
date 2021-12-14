@@ -6,7 +6,7 @@ client = commands.Bot(command_prefix=PREFX)
 client.remove_command('help')
 
 # .help
-# ссылки на discord BOT
+# discord BOT links
 # https://discord.com/developers/applications :create
 # https://discordpy.readthedocs.io/en/stable/ :docs
 # https://discordpy.readthedocs.io/en/latest/api.html :docs
