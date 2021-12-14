@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7c57fe24-f239-4aa9-8e86-eff283d8e62c" name="Changes" comment="sync0.5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kivork/server/pyBot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kivork/server/pyBot.py" afterDir="false" />
     </list>
+=======
+    <list default="true" id="5503809a-c0cc-4e9d-84d0-70a6c7b29e60" name="Changes" comment="create Bot file" />
+>>>>>>> master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Rebase.Settings">
     <option name="NEW_BASE" value="master" />
   </component>
@@ -20,22 +25,64 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Kivork" />
     <option name="RESET_MODE" value="HARD" />
     <option name="ROOT_SYNC" value="SYNC" />
+=======
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+>>>>>>> master
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="53ae6df7-997e-4f53-add5-491dd920ab59" />
+<<<<<<< HEAD
         <option name="url" value="git@github.com:VKeiby/GIT.git" />
       </UrlAndAccount>
     </option>
   </component>
   <component name="ProjectId" id="226NsWb8oJ4LIw4eF5mtx9qCjjR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+        <option name="url" value="https://github.com/VKeiby/GIT" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="21m2cGkSRi2ccE9MiOOrdJvzjyW" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+>>>>>>> master
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="ChangesTree.GroupingKeys" value="repository&#10;directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -70,11 +117,24 @@
       <method v="2" />
     </configuration>
     <configuration name="rbcnews" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="discordBot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kivork" />
+>>>>>>> master
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
       <option name="SDK_HOME" value="C:\Users\Vic\AppData\Local\Microsoft\WindowsApps\python3.9.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_less/MyProg" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -82,6 +142,14 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_less/MyProg/rbcnews.py" />
+=======
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../KB/GIT/Kivork" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../KB/GIT/Kivork/discordBot.py" />
+>>>>>>> master
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,14 +160,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.pyBot" />
         <item itemvalue="Python.rbcnews" />
+=======
+        <item itemvalue="Python.discordBot" />
+>>>>>>> master
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="7c57fe24-f239-4aa9-8e86-eff283d8e62c" name="Changes" comment="" />
       <created>1639154284101</created>
       <option name="number" value="Default" />
@@ -149,6 +222,29 @@
       <updated>1639404019064</updated>
     </task>
     <option name="localTasksCounter" value="7" />
+=======
+      <changelist id="5503809a-c0cc-4e9d-84d0-70a6c7b29e60" name="Changes" comment="" />
+      <created>1638532021162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638532021162</updated>
+    </task>
+    <task id="LOCAL-00001" summary="unkn__">
+      <created>1639146615954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639146615954</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create Bot file">
+      <created>1639156836679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639156836679</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+>>>>>>> master
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,7 +252,38 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State />
+=======
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="KIVORK/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+>>>>>>> master
           </value>
         </entry>
       </map>
@@ -164,6 +291,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
@@ -171,5 +299,10 @@
     <MESSAGE value="sync0.3" />
     <MESSAGE value="sync0.5" />
     <option name="LAST_COMMIT_MESSAGE" value="sync0.5" />
+=======
+    <MESSAGE value="unkn__" />
+    <MESSAGE value="create Bot file" />
+    <option name="LAST_COMMIT_MESSAGE" value="create Bot file" />
+>>>>>>> master
   </component>
 </project>
